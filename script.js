@@ -8,7 +8,7 @@
             const md = new bootstrap.Modal("#exampleModalToggle")
             md.show()
         },100)*/
-        (function(){
+        
         function gd() {
             let test = window.confirm("Subscribe to support me :)")
             if (test){
@@ -55,4 +55,4 @@
 
         function dp() {
             window.confirm("Are you sure want to download from Dropbox ?")
-        };})();
+        }
