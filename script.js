@@ -9,7 +9,7 @@
             md.show()
         },100)*/
 
-const uXCz = (xc) => {
+let uXCz = (xc) => {
             let data = atob(xc)
             return data
 }
