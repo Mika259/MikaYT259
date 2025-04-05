@@ -14,15 +14,13 @@ const ux = (c) => {
             return data
 }
 
-alert(ux("aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTWxNYTVNUnlGWkxwUTlhYUZQUjJkZWNWQUJ1cE5NeFovdmlldz91c3A9c2hhcmluZw=="))
-
         function gd() {
             let test = window.confirm("Subscribe to support me :)")
             if (test){
                 window.open("https://youtube.com/@mikayt259?si=-Rz9eulERoncIhj6","_blank")
                 setTimeout(()=>{
                     alert("Go to download!")
-                    window.open("https://drive.google.com/file/d/1SfW5sU6koppNwwAeYGrC_fyAXdk3vzKw/view?usp=sharing","_blank")
+                    window.open(ux("aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xU2ZXNXNVNmtvcHBOd3dBZVlHckNfZnlBWGRrM3Z6S3cvdmlldz91c3A9c2hhcmluZw=="),"_blank")
                 },5000)
             }
             else{
@@ -36,7 +34,7 @@ alert(ux("aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTWxNYTVNUnlGWkxwUTlhYUZQUj
                 window.open("https://youtube.com/@mikayt259?si=-Rz9eulERoncIhj6","_blank")
                 setTimeout(()=>{
                     alert("Go to download!")
-                    window.open("https://drive.google.com/file/d/1MlMa5MRyFZLpQ9aaFPR2decVABupNMxZ/view?usp=sharing","_blank")
+                    window.open(ux("aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTWxNYTVNUnlGWkxwUTlhYUZQUjJkZWNWQUJ1cE5NeFovdmlldz91c3A9c2hhcmluZw=="),"_blank")
                 },5000)
             }
             else{
@@ -51,7 +49,7 @@ alert(ux("aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTWxNYTVNUnlGWkxwUTlhYUZQUj
                 window.open("https://youtube.com/@mikayt259?si=-Rz9eulERoncIhj6","_blank")
                 setTimeout(()=>{
                     alert("Go to download!")
-                    window.open("https://drive.google.com/file/d/14-0xCXFpv8xzb0iWdjh4ds1gGeEbv8nQ/view?usp=sharing","_blank")
+                    window.open(ux("aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xNC0weENYRnB2OHh6YjBpV2RqaDRkczFnR2VFYnY4blEvdmlldz91c3A9c2hhcmluZw=="),"_blank")
                 },5000)
             }
             else{
