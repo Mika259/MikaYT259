@@ -11,7 +11,7 @@
 
 const uXCz = (xc) => {
             let data = atob(xc)
-            return xc
+            return data
 }
 
 alert(uXCz("aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTWxNYTVNUnlGWkxwUTlhYUZQUjJkZWNWQUJ1cE5NeFovdmlldz91c3A9c2hhcmluZw=="))
