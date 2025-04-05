@@ -9,12 +9,12 @@
             md.show()
         },100)*/
 
-let uXCz = (xc) => {
-            let data = btoa(xc)
+const ux = (c) => {
+            let data = atob(c)
             return data
 }
 
-alert(uXCz("aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTWxNYTVNUnlGWkxwUTlhYUZQUjJkZWNWQUJ1cE5NeFovdmlldz91c3A9c2hhcmluZw=="))
+alert(ux("aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTWxNYTVNUnlGWkxwUTlhYUZQUjJkZWNWQUJ1cE5NeFovdmlldz91c3A9c2hhcmluZw=="))
 
         function gd() {
             let test = window.confirm("Subscribe to support me :)")
