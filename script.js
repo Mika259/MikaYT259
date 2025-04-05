@@ -8,7 +8,14 @@
             const md = new bootstrap.Modal("#exampleModalToggle")
             md.show()
         },100)*/
-        
+
+const uXCz = (xc) => {
+            let data = atob(xc)
+            return xc
+}
+
+alert(uXCz("aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTWxNYTVNUnlGWkxwUTlhYUZQUjJkZWNWQUJ1cE5NeFovdmlldz91c3A9c2hhcmluZw=="))
+
         function gd() {
             let test = window.confirm("Subscribe to support me :)")
             if (test){
