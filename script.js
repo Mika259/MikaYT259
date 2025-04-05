@@ -10,7 +10,7 @@
         },100)*/
 
 let uXCz = (xc) => {
-            let data = atob(xc)
+            let data = btoa(xc)
             return data
 }
 
